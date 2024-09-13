@@ -1,0 +1,2 @@
+I used this cmpetition for learning about EDA, Random Forest, LightGBM and GridSearch.
+My titanic competition link : https://www.kaggle.com/code/ilayeesade/titaniccompetition-eda-random-forest-gridsearch
