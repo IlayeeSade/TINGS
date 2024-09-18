@@ -1,0 +1,2 @@
+I used this cmpetition for learning about NLP and outsourcing and fine-tuning models
+My competition link : https://www.kaggle.com/code/ilayeesade/natural-language-processing-tweets-distilbert
